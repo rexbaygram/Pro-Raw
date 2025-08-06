@@ -23,3 +23,16 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/pro-raw.git
 cd pro-raw
+python organize.py --input /path/to/raw --output /path/to/organized
+--camera
+--scene
+--dry-run
+pro-raw/
+├── organize.py
+├── convert.py
+├── utils/
+│   └── metadata_parser.py
+├── samples/
+├── README.md
+└── LICENSE
+
