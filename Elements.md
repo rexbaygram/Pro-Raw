@@ -1,29 +1,30 @@
 # Pro-Raw
-Raw Vision and Raw Formats. Pro Execution.
-# 🎬 Pro-Raw: Precision Tools for Raw Footage Workflow
+**Raw Vision and Raw Formats. Pro Execution.**
 
-**Pro-Raw** designed to highlight my raw footage management for editors, creators, and visual storytellers. Whether you're organizing, converting, or prepping assets for post-production, Pro-Raw delivers clarity and control.
+## 🎬 What is Pro-Raw?
+
+Pro-Raw is a toolkit designed to help editors, creators, and storytellers manage their raw video footage with precision and ease. Whether you need to organize, convert, or prepare assets for post-production, Pro-Raw streamlines your workflow and makes handling raw files simple.
 
 ---
 
-## 🚀 Features
+## 🚀 Key Features
 
-- 📁 Auto-organize raw footage by date, camera, or scene
-- 🎞️ Convert proprietary formats to editable standards
-- 🧠 Smart renaming with metadata parsing
-- 🧹 Clean-up scripts to remove duplicates and temp files
-- 📊 Logging and reporting for audit trails
+- **Auto-Organization:** Automatically sort your raw footage by date, camera, or scene so you can always find what you need.
+- **Format Conversion:** Convert proprietary camera formats to widely-supported formats for easy editing.
+- **Smart Renaming:** Rename files in bulk using metadata (like date, camera model, or scene info) for better organization.
+- **Clean-Up Tools:** Remove duplicate files and temporary files to keep your workspace tidy.
+- **Logging and Reporting:** Generate logs and reports to track your work and maintain a clear audit trail.
 
 ---
 
 ## 🛠️ Installation
 
-Clone the repository:
+To install Pro-Raw, open your terminal and run the following commands:
 
 ```bash
 git clone https://github.com/your-username/pro-raw.git
 cd pro-raw
-
+```
 
 ---
 
@@ -38,6 +39,7 @@ cd pro-raw
 ## 📚 Documentation
 
 - For detailed instructions on each feature, see the [Wiki](https://github.com/REXXAUUSD/pro-raw/wiki).
+- If you have questions or need support, open an [issue](https://github.com/rexbaygram/pro-raw/issues).
 
 ---
 
